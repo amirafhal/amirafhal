@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amirafhal
-- 👀 I’m interested in study  programming
+- 👀 I’m interested in studying  programming
 - 🌱 I’m currently learning computer technology
 - 💞️ I’m looking to collaborate on solve problems
 - 📫 How to reach me ...
